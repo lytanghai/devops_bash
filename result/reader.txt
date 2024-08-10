@@ -1,0 +1,1 @@
+Using the du command, you can easily determine the size of a directory by displaying the disk space used by files and directories. The output can be customized to be presented in human-readable formats like kilobytes, megabytes or gigabytes
